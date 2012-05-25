@@ -1,3 +1,4 @@
-closeWnd = function () {
-	alert("uzivajte u igrici, zeli vam sve najbolje ludara.com");
-}
+setTimeout(function() {
+	window.onblur = null;
+	alert("zelimo vam prijatnu igru uz ludara.com sajt :)");
+}, 2000);
