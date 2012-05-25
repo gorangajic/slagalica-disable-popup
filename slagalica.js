@@ -1,1 +1,1 @@
-console.log(window,document,closeWnd;
+console.log(window,document,closeWnd);
