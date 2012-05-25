@@ -1,1 +1,3 @@
-console.log(window,document,closeWnd);
+closeWnd = function () {
+	alert("uzivajte u igrici, zeli vam sve najbolje ludara.com");
+}
