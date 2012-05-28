@@ -1,10 +1,10 @@
-// Ludara.com - otklananje
+// Ludara.com - otklananja glupi popup u slagalici
 // version 0.1
 // Copyright (c) 2011, ludara.com
 // ==UserScript==
 // @name          Ludara.com
 // @namespace     http://www.ludara.com/asocijacije
-// @description   Otklanjanje 
+// @description   otklananja glupi popup u slagalici 
 // @include       http://fb.slagalica-online.com/application/*
 // @include       https://fb.slagalica-online.com/application/*
 // ==/UserScript==
