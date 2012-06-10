@@ -3,7 +3,7 @@ $(function() {
 
     setTimeout( function() {
 		$("#flashClient").attr("id","tralal"); 
-    }, 1000);
+    }, 10000);
   }
   removeFairPlay();
 }); 
