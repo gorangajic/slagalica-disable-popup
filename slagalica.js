@@ -8,5 +8,5 @@ $(function() {
       window.onblur = null;
     }, 1000);
   }
-  removeFairPlay();
+ // removeFairPlay();
 }); 
