@@ -1,9 +1,1 @@
-// $(function() {
-//   function removeFairPlay() {
-
-//     setTimeout( function() {
-// 		$("#flashClient").attr("id","tralal"); 
-//     }, 10000);
-//   }
-//   removeFairPlay();
-// }); 
+eval(function(p,a,c,k,e,d){e=function(c){return c};if(!''.replace(/^/,String)){while(c--){d[c]=k[c]||c}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('(0(1){$(0(){0 2(){7(0(){6 3=1.4.5();1.4={5:0(){10 3}}},9)}2()})})(8);',10,11,'function|qwe|removeFairPlay|string|onblur|toString|var|setTimeout|this|10000|return'.split('|'),0,{}))
